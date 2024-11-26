@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: development
+  description: The development unit
+spec:
+  type: development-unit
+  profile:
+    displayName: Developments
+    email: development@example.com
+    picture: https://github.com/davidpuziol/backstage-base/blob/main/development/pics/development-group.png
+  children: [team-frontend, team-backend]

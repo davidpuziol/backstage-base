@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: operation
+  description: The operation unit
+spec:
+  type: operation-unit
+  profile:
+    displayName: Operation
+    email: operation@example.com
+    picture: https://github.com/davidpuziol/backstage-base/blob/main/operation/pics/operation-group.png
+  children: [team-sec, team-sre, team-monitoring, team-cloud]

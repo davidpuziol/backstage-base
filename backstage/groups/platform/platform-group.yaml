@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: platform
+  description: The platform unit
+spec:
+  type: platform-unit
+  profile:
+    displayName: Platform
+    email: platform@example.com
+    picture: https://github.com/davidpuziol/backstage-base/blob/main/platform/pics/platform-group.png
+  children: [team-backstage]
