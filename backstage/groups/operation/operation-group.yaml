@@ -10,3 +10,4 @@ spec:
     email: operation@example.com
     picture: https://github.com/davidpuziol/backstage-base/blob/main/backstage/groups/operation/pics/operation-group.png
   # children: [team-sec, team-sre, team-monitoring, team-cloud]
+  children: []

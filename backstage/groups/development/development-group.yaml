@@ -10,3 +10,4 @@ spec:
     email: development@example.com
     picture: https://github.com/davidpuziol/backstage-base/blob/main/backstage/groups/development/pics/development-group.png
   # children: [team-frontend, team-backend]
+  children: []

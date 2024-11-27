@@ -10,3 +10,4 @@ spec:
     email: platform@example.com
     picture: https://github.com/davidpuziol/backstage-base/blob/main/backstage/groups/platform/pics/platform-group.png
   # children: [team-backstage]
+  children: []
