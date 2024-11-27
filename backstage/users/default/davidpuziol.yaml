@@ -6,5 +6,5 @@ spec:
   profile:
     displayName: David Puziol
     email: davidpuziol@gmail.com
-    picture: https://example.com/staff/jenny-with-party-hat.jpeg
+    picture: https://avatars.githubusercontent.com/u/32808515?s=400&u=86f4e3ff19eb20d1b142a3eedadc6c37e5cc3048&v=4
   memberOf: [team-idp, operation]
