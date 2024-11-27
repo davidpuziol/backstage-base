@@ -6,8 +6,8 @@ metadata:
 spec:
   type: development-unit
   profile:
-    displayName: Developments
+    displayName: Development
     email: development@example.com
-    picture: https://github.com/davidpuziol/backstage-base/blob/main/backstage/groups/development/pics/development-group.png
+    picture: https://github.com/davidpuziol/backstage-base/blob/main/backstage/groups/development/pics/development-group.png?raw=true
   # children: [team-frontend, team-backend]
   children: []
