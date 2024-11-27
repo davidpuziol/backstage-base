@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: team-cloud
+  description: The operation cloud team
+spec:
+  type: cloud-unit
+  profile:
+    displayName: Cloud Team
+    email: cloud@example.com
+    picture: https://gitlab.com/davidpuziol/study-devops/-/raw/main/devops.png
+  parent: operation
+  children: []

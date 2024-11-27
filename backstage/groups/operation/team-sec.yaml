@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: team-security
+  description: The operation security team
+spec:
+  type: security-unit
+  profile:
+    displayName: Security Team
+    email: security@example.com
+    picture: https://gitlab.com/davidpuziol/study-devops/-/raw/main/devops.png
+  parent: operation
+  children: []

@@ -8,6 +8,5 @@ spec:
   profile:
     displayName: Platform
     email: platform@example.com
-    picture: https://github.com/davidpuziol/backstage-base/blob/main/backstage/groups/platform/pics/platform-group.png?raw=true
-  # children: [team-backstage]
-  children: []
+    picture: https://github.com/davidpuziol/backstage-base/blob/main/backstage/groups/platform/pics/platform-group.png
+  children: [team-idp]

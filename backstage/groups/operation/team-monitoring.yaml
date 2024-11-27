@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: team-monitoring
+  description: The operation monitoring team
+spec:
+  type: monitoring-unit
+  profile:
+    displayName: Monitoring Team
+    email: monitoring@example.com
+    picture: https://gitlab.com/davidpuziol/study-devops/-/raw/main/devops.png
+  parent: operation
+  children: []

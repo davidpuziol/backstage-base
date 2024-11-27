@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: team-frontend
+  description: The development frontend team
+spec:
+  type: frontend-unit
+  profile:
+    displayName: Frontend Team
+    email: frontend@example.com
+    picture: https://gitlab.com/davidpuziol/study-devops/-/raw/main/devops.png
+  parent: development
+  children: []

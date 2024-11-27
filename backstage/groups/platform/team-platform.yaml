@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: team-idp
+  description: The internal developer platform team
+spec:
+  type: idp-unit
+  profile:
+    displayName: IDP Team
+    email: idp@example.com
+    picture: https://gitlab.com/davidpuziol/study-devops/-/raw/main/devops.png
+  parent: platform
+  children: []

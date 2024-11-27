@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: team-sre
+  description: The operation SRE team
+spec:
+  type: sre-unit
+  profile:
+    displayName: SRE Team
+    email: sre@example.com
+    picture: https://gitlab.com/davidpuziol/study-devops/-/raw/main/devops.png
+  parent: operation
+  children: []
