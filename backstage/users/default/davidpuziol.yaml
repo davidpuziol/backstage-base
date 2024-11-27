@@ -7,4 +7,4 @@ spec:
     displayName: David Puziol
     email: davidpuziol@gmail.com
     picture: https://example.com/staff/jenny-with-party-hat.jpeg
-  memberOf: [idp-team, operation]
+  memberOf: [team-idp, operation]
