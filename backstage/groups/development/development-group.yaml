@@ -9,4 +9,4 @@ spec:
     displayName: Development
     email: development@example.com
     picture: https://gitlab.com/davidpuziol/study-devops/-/raw/main/devops.png
-  children: [team-frontend]
+  children: [team-backend]
