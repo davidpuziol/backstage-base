@@ -8,6 +8,5 @@ spec:
   profile:
     displayName: Development
     email: development@example.com
-    picture: https://github.com/davidpuziol/backstage-base/blob/main/backstage/groups/development/pics/development-group.png?raw=true
-  # children: [team-frontend, team-backend]
-  children: []
+    picture: https://gitlab.com/davidpuziol/study-devops/-/raw/main/devops.png
+  children: [team-frontend]
