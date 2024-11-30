@@ -3,6 +3,8 @@ kind: Domain
 metadata:
   name: groundwork
   description: Todas as tools e softwares que auxiliam no core business.
+  annotations:
+    backstage.io/techdocs-ref: dir:.
 spec:
   owner: davidpuziol
   
