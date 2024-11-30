@@ -2,7 +2,7 @@
 
 Subtime do time de desenvolvimento focado na core business e regras de negócio. Fornecem a resposta diferentes tipos de frontend.
 
-Esse time é dividido em times menores sendo que cada time é responsável por uma parte do sistema. 
+Esse time é dividido em times menores sendo que cada time é responsável por uma parte do sistema.
 
 Reponsável Geral: Bete-Bilo
 
