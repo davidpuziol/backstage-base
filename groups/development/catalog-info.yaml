@@ -3,6 +3,8 @@ kind: Group
 metadata:
   name: development
   description: The development unit
+  annotations:
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: development-unit
   profile:
