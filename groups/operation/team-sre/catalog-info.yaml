@@ -3,6 +3,8 @@ kind: Group
 metadata:
   name: team-sre
   description: The operation SRE team
+  annotations:
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: sre-unit
   profile:

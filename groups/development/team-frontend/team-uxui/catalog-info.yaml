@@ -3,6 +3,8 @@ kind: Group
 metadata:
   name: team-uxui
   description: The UX UI frontend team
+  annotations:
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: uxui-unit
   profile:

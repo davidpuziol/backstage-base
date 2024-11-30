@@ -3,6 +3,8 @@ kind: Group
 metadata:
   name: team-backend
   description: The development backend team
+  annotations:
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: backend-unit
   profile:

@@ -3,6 +3,8 @@ kind: Group
 metadata:
   name: operation
   description: The operation unit
+  annotations:
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: operation-unit
   profile:

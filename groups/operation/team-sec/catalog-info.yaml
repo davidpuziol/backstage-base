@@ -3,6 +3,8 @@ kind: Group
 metadata:
   name: team-security
   description: The operation security team
+  annotations:
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: security-unit
   profile:

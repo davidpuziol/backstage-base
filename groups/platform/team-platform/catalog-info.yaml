@@ -3,6 +3,8 @@ kind: Group
 metadata:
   name: team-idp
   description: The internal developer platform team
+  annotations:
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: idp-unit
   profile:

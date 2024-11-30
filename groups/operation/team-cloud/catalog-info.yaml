@@ -3,6 +3,8 @@ kind: Group
 metadata:
   name: team-cloud
   description: The operation cloud team
+  annotations:
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: cloud-unit
   profile:

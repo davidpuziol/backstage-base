@@ -3,6 +3,8 @@ kind: Group
 metadata:
   name: team-frontend
   description: The development frontend team
+  annotations:
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: frontend-unit
   profile:

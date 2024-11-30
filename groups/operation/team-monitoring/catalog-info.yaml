@@ -3,6 +3,8 @@ kind: Group
 metadata:
   name: team-monitoring
   description: The operation monitoring team
+  annotations:
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: monitoring-unit
   profile:

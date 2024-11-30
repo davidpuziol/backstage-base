@@ -3,6 +3,8 @@ kind: Group
 metadata:
   name: platform
   description: The platform unit
+  annotations:
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: platform-unit
   profile:
