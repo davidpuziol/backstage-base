@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Domain
+metadata:
+  name: groundwork
+  description: Todas as tools e softwares que auxiliam no core business.
+spec:
+  owner: davidpuziol
+  
