@@ -10,4 +10,4 @@ spec:
     email: frontend@example.com
     picture: https://gitlab.com/davidpuziol/study-devops/-/raw/main/devops.png    
   parent: development
-  children: []
+  children: [team-uxui]

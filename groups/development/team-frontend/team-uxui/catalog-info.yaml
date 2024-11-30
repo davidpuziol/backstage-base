@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: team-uxui
+  description: The UX UI frontend team
+spec:
+  type: uxui-unit
+  profile:
+    displayName: UXUI Team
+    email: uxui@example.com
+    picture: https://gitlab.com/davidpuziol/study-devops/-/raw/main/devops.png    
+  parent: team-frontend
+  children: []
