@@ -6,7 +6,7 @@ metadata:
   annotations:
     backstage.io/techdocs-ref: dir:.
 spec:
-  type: idp-unit
+  type: team
   profile:
     displayName: IDP Team
     email: idp@example.com
