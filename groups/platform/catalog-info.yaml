@@ -6,8 +6,7 @@ metadata:
   annotations:
     backstage.io/techdocs-ref: dir:.
 spec:
-  type: platform-unit
-  context: area
+  type: unit
   profile:
     displayName: Platform
     email: platform@example.com
