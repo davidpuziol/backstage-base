@@ -6,9 +6,9 @@ metadata:
   annotations:
     backstage.io/techdocs-ref: dir:.
 spec:
-  type: development-unit
+  type: team
   profile:
     displayName: Development
     email: development@example.com
     picture: https://gitlab.com/davidpuziol/study-devops/-/raw/main/devops.png
-  children: [team-backend]
+  children: [team-frontend, team-backend]

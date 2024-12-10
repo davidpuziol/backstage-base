@@ -6,7 +6,7 @@ metadata:
   annotations:
     backstage.io/techdocs-ref: dir:.
 spec:
-  type: monitoring-unit
+  type: team
   profile:
     displayName: Monitoring Team
     email: monitoring@example.com

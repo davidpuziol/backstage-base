@@ -6,7 +6,7 @@ metadata:
   annotations:
     backstage.io/techdocs-ref: dir:.
 spec:
-  type: operation-unit
+  type: unit
   profile:
     displayName: Operation
     email: operation@example.com
