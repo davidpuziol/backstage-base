@@ -6,7 +6,7 @@ metadata:
   annotations:
     backstage.io/techdocs-ref: dir:.
 spec:
-  type: team
+  type: unit
   profile:
     displayName: Development
     email: development@example.com
